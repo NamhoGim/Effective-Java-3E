@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item2.telescopingconstructor;
+package chapter02.item2.telescopingconstructor;
 
 // Telescoping constructor pattern - does not scale well! (Pages 10-11)
 public class NutritionFacts {
