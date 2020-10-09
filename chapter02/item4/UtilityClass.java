@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item4;
+package chapter02.item4;
 
 // Noninstantiable utility class (Page 19)
 public class UtilityClass {

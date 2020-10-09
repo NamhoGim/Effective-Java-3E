@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item3.enumtype;
+package chapter02.item3.enumtype;
 
 // Enum singleton - the preferred approach (Page 18)
 public enum Elvis {

@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item3.field;
+package chapter02.item3.field;
 
 // Singleton with public final field  (Page 17)
 public class Elvis {
