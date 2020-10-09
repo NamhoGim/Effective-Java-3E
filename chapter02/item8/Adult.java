@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item8;
+package chapter02.item8;
 
 // Well-behaved client of resource with cleaner safety-net (Page 33)
 public class Adult {

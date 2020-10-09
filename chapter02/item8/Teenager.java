@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item8;
+package chapter02.item8;
 
 import java.util.concurrent.TimeUnit;
 
@@ -9,6 +9,6 @@ public class Teenager {
         System.out.println("Peace out");
 
         // Uncomment next line and retest behavior, but note that you MUST NOT depend on this behavior!
-//      System.gc();
+        // System.gc();
     }
 }
