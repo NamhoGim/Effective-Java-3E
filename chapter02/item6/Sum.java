@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item6;
+package chapter02.item6;
 
 import java.util.Comparator;
 
