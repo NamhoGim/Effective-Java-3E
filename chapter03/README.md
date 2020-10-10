@@ -1,1 +1,1 @@
-# Method of the Object class
+# Methods Common to All Object class
