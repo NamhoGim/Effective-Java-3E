@@ -1,1 +1,1 @@
-# Methods Common to All Object class
+# Chapter 3: Methods Common to All Object class
