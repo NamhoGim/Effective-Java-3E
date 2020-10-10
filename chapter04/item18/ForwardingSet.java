@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item18;
+package chapter04.item18;
 import java.util.*;
 
 // Reusable forwarding class (Page 90)

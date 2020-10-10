@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item20;
+package chapter04.item20;
 import java.util.*;
 
 // Concrete implementation built atop skeletal implementation (Page 101)

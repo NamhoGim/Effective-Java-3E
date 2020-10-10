@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item16;
+package chapter04.item16;
 
 // Encapsulation of data by accessor methods and mutators  (Page 78)
 class Point {

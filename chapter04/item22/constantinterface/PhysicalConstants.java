@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item22.constantinterface;
+package chapter04.item22.constantinterface;
 
 // Constant interface antipattern - do not use!
 public interface PhysicalConstants {

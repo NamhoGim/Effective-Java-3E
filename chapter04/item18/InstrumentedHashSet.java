@@ -1,4 +1,5 @@
-package effectivejava.chapter4.item18;
+package chapter04.item18;
+
 import java.util.*;
 
 // Broken - Inappropriate use of inheritance! (Page 87)
@@ -6,8 +7,7 @@ public class InstrumentedHashSet<E> extends HashSet<E> {
     // The number of attempted element insertions
     private int addCount = 0;
 
-    public InstrumentedHashSet() {
-    }
+    public InstrumentedHashSet() {}
 
     public InstrumentedHashSet(int initCap, float loadFactor) {
         super(initCap, loadFactor);

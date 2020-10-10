@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item19;
+package chapter04.item19;
 
 import java.time.Instant;
 

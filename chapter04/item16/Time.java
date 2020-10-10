@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item16;
+package chapter04.item16;
 
 // Public class with exposed immutable fields - questionable   (Page 79)
 public final class Time {

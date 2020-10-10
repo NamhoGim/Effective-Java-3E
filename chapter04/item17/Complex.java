@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item17;
+package chapter04.item17;
 
 // Immutable complex number class (Pages 81-82)
 public final class Complex {
