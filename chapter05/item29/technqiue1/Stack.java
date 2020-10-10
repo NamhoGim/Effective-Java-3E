@@ -1,5 +1,6 @@
-package effectivejava.chapter5.item29.technqiue1;
-import effectivejava.chapter5.item29.EmptyStackException;
+package chapter05.item29.technqiue1;
+
+import chapter05.item29.EmptyStackException;
 
 import java.util.Arrays;
 

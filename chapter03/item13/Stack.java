@@ -1,4 +1,5 @@
-package effectivejava.chapter3.item13;
+package chapter03.item13;
+
 import java.util.Arrays;
 
 // A cloneable version of Stack (Pages 60-61)

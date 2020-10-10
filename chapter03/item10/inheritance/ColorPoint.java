@@ -1,7 +1,7 @@
-package effectivejava.chapter3.item10.inheritance;
+package chapter03.item10.inheritance;
 
-import effectivejava.chapter3.item10.Color;
-import effectivejava.chapter3.item10.Point;
+import chapter03.item10.Color;
+import chapter03.item10.Point;
 
 // Attempting to add a value component to Point (Page 41)
 public class ColorPoint extends Point {

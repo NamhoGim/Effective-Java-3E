@@ -1,4 +1,5 @@
-package effectivejava.chapter3.item14;
+package chapter03.item14;
+
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 import static java.util.Comparator.*;
@@ -22,7 +23,7 @@ public final class PhoneNumber implements Cloneable, Comparable<PhoneNumber> {
     @Override public boolean equals(Object o) {
         if (o == this)
             return true;
-        if (!(o instanceof effectivejava.chapter3.item11.PhoneNumber))
+        if (!(o instanceof chapter03.item11.PhoneNumber))
             return false;
         PhoneNumber pn = (PhoneNumber)o;
         return pn.lineNum == lineNum && pn.prefix == prefix
@@ -82,7 +83,7 @@ public final class PhoneNumber implements Cloneable, Comparable<PhoneNumber> {
     }
 
     public static void main(String[] args) {
-        NavigableSet<PhoneNumber> s = new TreeSet<PhoneNumber>();
+        NavigableSet<PhoneNumber> s = new TreeSet<>();
         for (int i = 0; i < 10; i++)
             s.add(randomPhoneNumber());
         System.out.println(s);

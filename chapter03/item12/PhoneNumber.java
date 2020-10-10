@@ -1,4 +1,4 @@
-package effectivejava.chapter3.item12;
+package chapter03.item12;
 
 // Adding a toString method to PhoneNumber (page 52)
 public final class PhoneNumber {
@@ -19,7 +19,7 @@ public final class PhoneNumber {
     @Override public boolean equals(Object o) {
         if (o == this)
             return true;
-        if (!(o instanceof effectivejava.chapter3.item11.PhoneNumber))
+        if (!(o instanceof chapter03.item11.PhoneNumber))
             return false;
         PhoneNumber pn = (PhoneNumber)o;
         return pn.lineNum == lineNum && pn.prefix == prefix

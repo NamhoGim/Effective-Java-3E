@@ -1,5 +1,6 @@
-package effectivejava.chapter3.item10.inheritance;
-import effectivejava.chapter3.item10.Point;
+package chapter03.item10.inheritance;
+
+import chapter03.item10.Point;
 
 import java.util.*;
 
