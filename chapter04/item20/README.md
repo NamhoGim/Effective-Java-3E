@@ -1,4 +1,4 @@
-# Item 20: Prefer interfaces to abstract classes
+## Item 20: Prefer interfaces to abstract classes
 
 An interface is generally the best way to define a type that permits multiple implementations.
 It you export a nontrivial interface, you should strongly consider providing a skeletal implementation

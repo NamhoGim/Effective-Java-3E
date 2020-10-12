@@ -1,4 +1,4 @@
-# Item 15: Minimize the accessibility of classes and members
+## Item 15: Minimize the accessibility of classes and members
 
 The rule of thumb is simple: make each class of member as inaccessible as possible
 

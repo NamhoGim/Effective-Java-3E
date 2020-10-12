@@ -1,4 +1,4 @@
-# Item 17: Minimize mutability
+## Item 17: Minimize mutability
 
 To make a class immutable, follow these five rules:
 

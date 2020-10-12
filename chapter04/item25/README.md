@@ -1,4 +1,4 @@
-# Item 25: Limit source files to a single top-level class
+## Item 25: Limit source files to a single top-level class
 
 Never put multiple top-level classes or interfaces in a single source file.
 Following this rule guarantees that you can't have multiple definitions for a single class at compile time.

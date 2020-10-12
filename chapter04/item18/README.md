@@ -1,4 +1,4 @@
-# Item 18: Favor composition over inheritance
+## Item 18: Favor composition over inheritance
 
 Inheritance is powerful, but it is problematic because it violates encapsulation.
 It is appropriate only when a genuine subtype relationship exists between the subclass and the superclass.

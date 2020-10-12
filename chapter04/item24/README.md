@@ -1,4 +1,4 @@
-# Item 24: Favor static member classes over nonstatic
+## Item 24: Favor static member classes over nonstatic
 
 There are four kinds of nested classes:
 *static member classes*, *nonstatic member class*, *anonymous classes*, and *local classes*

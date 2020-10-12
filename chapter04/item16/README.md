@@ -1,4 +1,4 @@
-# Item 16: In public classes, use accessor methods, not public fields
+## Item 16: In public classes, use accessor methods, not public fields
 
 Pulbic classes should never expose mutable fields.
 It is less harmful, though still questionable, for public classes to expose immutable fields.
