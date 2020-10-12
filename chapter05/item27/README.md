@@ -1,4 +1,4 @@
-# Item 27: Eliminate unchecked warning
+## Item 27: Eliminate unchecked warning
 
 - Eliminate every unchecked warning that you can.
 

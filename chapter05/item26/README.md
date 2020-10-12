@@ -1,4 +1,4 @@
-# Item 26: Don't use raw types
+## Item 26: Don't use raw types
 
 Using raw types can lead to exceptions at runtime,
 so don't use them. They are provided only for compatibility and interoperability with legacy

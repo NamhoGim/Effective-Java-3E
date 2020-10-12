@@ -1,4 +1,4 @@
-# Item 29: Favor generic types
+## Item 29: Favor generic types
 
 Generic types are safer and easier to use than types that require casts in client code.
 When you design new types, make sure that they can be used without such casts.

@@ -1,4 +1,4 @@
-# Item 28: Prefer lists to arrays
+## Item 28: Prefer lists to arrays
 
 Arrays differ from generic types in two important ways.
 First, arrays are _covariant_. This scary-sounding word means simply that if `Sub` is

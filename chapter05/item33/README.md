@@ -1,4 +1,4 @@
-# Item 33: Consider typesafe heterogeneous containers
+## Item 33: Consider typesafe heterogeneous containers
 
 The normal use of generics, exemplified by the collections APIs,
 restricts you to a fixed number of type parameters per container.

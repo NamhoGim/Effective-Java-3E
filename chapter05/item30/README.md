@@ -1,4 +1,4 @@
-# Item 30: Favor generic methods
+## Item 30: Favor generic methods
 
 Generic methods, like generic types, are safer and easier to use than methods requiring their clients
 to put explicit cast on input paramters and return values. Like types, you should make sure that your method can be used
