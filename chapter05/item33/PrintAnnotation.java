@@ -1,4 +1,5 @@
-package effectivejava.chapter5.item33;
+package chapter05.item33;
+
 import java.lang.annotation.*;
 import java.lang.reflect.*;
 

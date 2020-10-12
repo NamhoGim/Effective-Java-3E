@@ -1,4 +1,4 @@
-package effectivejava.chapter5.item30;
+package chapter05.item30;
 
 import java.util.function.UnaryOperator;
 

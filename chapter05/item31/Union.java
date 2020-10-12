@@ -1,4 +1,5 @@
-package effectivejava.chapter5.item31;
+package chapter05.item31;
+
 import java.util.*;
 
 // Generic union method with wildcard types for enhanced flexibility (Pages 142-3)

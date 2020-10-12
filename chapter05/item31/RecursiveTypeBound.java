@@ -1,8 +1,9 @@
-package effectivejava.chapter5.item31;
+package chapter05.item31;
 import java.util.*;
 
 // Using a recursive type bound with wildcards (Page 143)
 public class RecursiveTypeBound {
+    // a comparable of E consumes E instances (and produces integers indicating order relations).
     public static <E extends Comparable<? super E>> E max(
         List<? extends E> list) {
         if (list.isEmpty())

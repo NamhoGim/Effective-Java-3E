@@ -1,4 +1,4 @@
-package effectivejava.chapter5.item32;
+package chapter05.item32;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;

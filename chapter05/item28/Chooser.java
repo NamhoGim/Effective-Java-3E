@@ -1,4 +1,4 @@
-package effectivejava.chapter5.item28;
+package chapter05.item28;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,4 +1,5 @@
-package effectivejava.chapter5.item31;
+package chapter05.item31;
+
 import java.util.*;
 
 // Generic stack with bulk methods using wildcard types (Pages 139-41)
