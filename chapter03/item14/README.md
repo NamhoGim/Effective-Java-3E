@@ -1,4 +1,4 @@
-# Item 14: Consider implementing `Comparable`
+## Item 14: Consider implementing `Comparable`
 
 - The implementor must ensure that `sgn(x.compareTo(y) == -sgn(y.compareTo(x))`
   for all `x` and `y`. (This implies that `x.compareTo(y)` must throw an exception

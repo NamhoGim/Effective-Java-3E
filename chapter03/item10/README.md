@@ -1,4 +1,4 @@
-# Item 10: Obey the general contract when overriding `equals`
+## Item 10: Obey the general contract when overriding `equals`
 
 The `equals` method must be:
 - Reflexive (x = x)
