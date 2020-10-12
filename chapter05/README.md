@@ -1,4 +1,4 @@
-# Generics
+# Chapter 5: Generics
 
 - [x] [Item 26: Don’t use raw types](./item26)
 - [x] [Item 27: Eliminate unchecked warnings](./item27)
