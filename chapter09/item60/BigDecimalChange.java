@@ -1,4 +1,4 @@
-package effectivejava.chapter9.item60;
+package chapter09.item60;
 
 import java.math.BigDecimal;
 

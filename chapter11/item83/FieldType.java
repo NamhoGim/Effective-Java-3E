@@ -1,4 +1,4 @@
-package effectivejava.chapter11.item83;
+package chapter11.item83;
 
 public class FieldType {
 }

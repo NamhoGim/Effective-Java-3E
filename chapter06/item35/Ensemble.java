@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item35;
+package chapter06.item35;
 
 // Enum with integer data stored in an instance field (Page 168)
 public enum Ensemble {

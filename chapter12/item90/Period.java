@@ -1,4 +1,4 @@
-package effectivejava.chapter12.item90;
+package chapter12.item90;
 
 // Period class with serialization proxy - Pages 363-364
 

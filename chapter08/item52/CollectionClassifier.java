@@ -1,4 +1,5 @@
-package effectivejava.chapter8.item52;
+package chapter08.item52;
+
 import java.util.*;
 import java.math.*;
 

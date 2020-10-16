@@ -1,4 +1,5 @@
-package effectivejava.chapter9.item58;
+package chapter09.item58;
+
 import java.util.*;
 
 // Same bug as NestIteration.java (but different symptom)!! - Page 213

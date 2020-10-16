@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item39.annotationwitharrayparameter;
+package chapter06.item39.annotationwitharrayparameter;
 
 import java.util.*;
 

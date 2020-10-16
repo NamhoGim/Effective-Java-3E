@@ -1,4 +1,5 @@
-package effectivejava.chapter9.item61;
+package chapter09.item61;
+
 import java.util.*;
 
 // Broken comparator - can you spot the flaw? - Page 273

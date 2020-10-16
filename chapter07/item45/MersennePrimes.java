@@ -1,4 +1,4 @@
-package effectivejava.chapter7.item45;
+package chapter07.item45;
 
 import java.math.BigInteger;
 import java.util.stream.Stream;

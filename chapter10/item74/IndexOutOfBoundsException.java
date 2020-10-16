@@ -1,4 +1,4 @@
-package effectivejava.chapter10.item74;
+package chapter10.item74;
 
 public class IndexOutOfBoundsException extends RuntimeException {
     private final int lowerBound;

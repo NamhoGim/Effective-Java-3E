@@ -1,4 +1,4 @@
-package effectivejava.chapter9.item65;
+package chapter09.item65;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

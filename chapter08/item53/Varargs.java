@@ -1,4 +1,4 @@
-package effectivejava.chapter8.item53;
+package chapter08.item53;
 
 import java.util.stream.IntStream;
 

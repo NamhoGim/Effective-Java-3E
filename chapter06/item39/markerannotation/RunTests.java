@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item39.markerannotation;
+package chapter06.item39.markerannotation;
 
 // Program to process marker annotations (Page 182)
 

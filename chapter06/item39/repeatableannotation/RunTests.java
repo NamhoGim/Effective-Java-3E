@@ -1,6 +1,6 @@
-package effectivejava.chapter6.item39.repeatableannotation;
+package chapter06.item39.repeatableannotation;
 
-import effectivejava.chapter6.item39.markerannotation.Test;
+import chapter06.item39.markerannotation.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

@@ -1,4 +1,5 @@
-package effectivejava.chapter12.item87;
+package chapter12.item87;
+
 import java.io.*;
 
 // StringList with a reasonable custom serialized form  - Page 349

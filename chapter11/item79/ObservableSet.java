@@ -1,4 +1,5 @@
-package effectivejava.chapter11.item79;
+package chapter11.item79;
+
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 

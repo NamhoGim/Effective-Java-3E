@@ -1,4 +1,4 @@
-package effectivejava.chapter8.item56;
+package chapter08.item56;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

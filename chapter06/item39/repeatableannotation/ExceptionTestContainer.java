@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item39.repeatableannotation;
+package chapter06.item39.repeatableannotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,5 +1,6 @@
-package effectivejava.chapter6.item39.annotationwithparameter;
-import effectivejava.chapter6.item39.annotationwithparameter.ExceptionTest;
+package chapter06.item39.annotationwithparameter;
+
+import chapter06.item39.annotationwithparameter.ExceptionTest;
 
 import java.util.*;
 

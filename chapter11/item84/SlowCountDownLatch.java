@@ -1,4 +1,4 @@
-package effectivejava.chapter11.item84;
+package chapter11.item84;
 
 // Awful CountDownLatch implementation - busy-waits incessantly!  - Pages 336-7
 public class SlowCountDownLatch {

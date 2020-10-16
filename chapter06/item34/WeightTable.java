@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item34;
+package chapter06.item34;
 
 // Takes earth-weight and prints table of weights on all planets (Page 160)
 public class WeightTable {

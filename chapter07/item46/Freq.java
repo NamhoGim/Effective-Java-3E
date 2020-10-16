@@ -1,4 +1,4 @@
-package effectivejava.chapter7.item46;
+package chapter07.item46;
 
 import java.io.File;
 import java.io.FileNotFoundException;

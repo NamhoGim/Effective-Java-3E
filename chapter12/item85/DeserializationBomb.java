@@ -1,5 +1,6 @@
-package effectivejava.chapter12.item85;
-import static effectivejava.chapter12.Util.*;
+package chapter12.item85;
+
+import static chapter12.Util.*;
 
 import java.util.HashSet;
 import java.util.Set;

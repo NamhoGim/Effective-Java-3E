@@ -1,4 +1,5 @@
-package effectivejava.chapter6.item37;
+package chapter06.item37;
+
 import java.util.*;
 import java.util.stream.Stream;
 

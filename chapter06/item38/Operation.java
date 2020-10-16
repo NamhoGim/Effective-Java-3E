@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item38;
+package chapter06.item38;
 
 // Emulated extensible enum using an interface (Page 176)
 public interface Operation {

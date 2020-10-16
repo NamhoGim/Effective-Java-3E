@@ -1,4 +1,4 @@
-package effectivejava.chapter7.item45;
+package chapter07.item45;
 
 // Refrain from using streams to process char values (Page 206)
 public class CharStream {

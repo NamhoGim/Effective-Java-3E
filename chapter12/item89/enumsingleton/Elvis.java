@@ -1,4 +1,4 @@
-package effectivejava.chapter12.item89.enumsingleton;
+package chapter12.item89.enumsingleton;
 
 import java.util.*;
 

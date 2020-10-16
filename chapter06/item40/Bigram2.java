@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item40;
+package chapter06.item40;
 
 import java.util.HashSet;
 import java.util.Set;

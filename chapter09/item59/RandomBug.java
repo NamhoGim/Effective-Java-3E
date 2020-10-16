@@ -1,4 +1,4 @@
-package effectivejava.chapter9.item59;
+package chapter09.item59;
 import java.util.*;
 
 // Random number generation is hard! - Page 215

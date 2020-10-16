@@ -1,4 +1,4 @@
-package effectivejava.chapter9.item60;
+package chapter09.item60;
 
 public class Change {
     // Broken - uses floating point for monetary calculation!

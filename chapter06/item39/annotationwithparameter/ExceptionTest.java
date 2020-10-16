@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item39.annotationwithparameter;
+package chapter06.item39.annotationwithparameter;
 
 // Annotation type with a parameter (Page 183)
 import java.lang.annotation.*;

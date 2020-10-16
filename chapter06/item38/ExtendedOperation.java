@@ -1,4 +1,5 @@
-package effectivejava.chapter6.item38;
+package chapter06.item38;
+
 import java.util.*;
 
 // Emulated extensible enum (Pages 176-9)

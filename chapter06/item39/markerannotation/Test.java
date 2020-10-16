@@ -1,7 +1,5 @@
-package effectivejava.chapter6.item39.markerannotation;
-import java.lang.annotation.*;
+package chapter06.item39.markerannotation;
 
-// Marker annotation type declaration - Page 180
 import java.lang.annotation.*;
 
 // Marker annotation type declaration (Page 180)

@@ -1,4 +1,4 @@
-package effectivejava.chapter8.item55;
+package chapter08.item55;
 
 import java.util.Optional;
 

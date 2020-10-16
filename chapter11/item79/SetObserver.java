@@ -1,4 +1,4 @@
-package effectivejava.chapter11.item79;
+package chapter11.item79;
 
 // Set obeserver callback interface - Page 266
 public interface SetObserver<E> {

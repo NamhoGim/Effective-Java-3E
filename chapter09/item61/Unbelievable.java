@@ -1,4 +1,4 @@
-package effectivejava.chapter9.item61;
+package chapter09.item61;
 
 // What does this program do? - Page 274
 public class Unbelievable {

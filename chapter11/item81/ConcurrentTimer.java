@@ -1,4 +1,5 @@
-package effectivejava.chapter11.item81;
+package chapter11.item81;
+
 import java.util.concurrent.*;
 
 // Simple framework for timing concurrent execution 327

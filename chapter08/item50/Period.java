@@ -1,4 +1,5 @@
-package effectivejava.chapter8.item50;
+package chapter08.item50;
+
 import java.util.*;
 
 // Broken "immutable" time period class (Pages 231-3)

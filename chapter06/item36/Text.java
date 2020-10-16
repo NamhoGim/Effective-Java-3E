@@ -1,4 +1,4 @@
-package effectivejava.chapter6.item36;
+package chapter06.item36;
 
 import java.util.*;
 

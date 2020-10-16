@@ -1,4 +1,5 @@
-package effectivejava.chapter6.item40;
+package chapter06.item40;
+
 import java.util.*;
 
 // Can you spot the bug? (Page 188)
