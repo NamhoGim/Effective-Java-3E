@@ -1,4 +1,4 @@
-# Item 7: Eliminate obsolete object reference
+## Item 7: Eliminate obsolete object reference
 
 Memory leaks can happen in:
 
