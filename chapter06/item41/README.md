@@ -11,8 +11,8 @@ Marker interfaces have two advantages over marker annotations.
 The chief advantage of marker annotations over marker interface is that they are part of the larger annotation facility.
 
 Marker interfaces and marker annotations both have their uses.
-If you want yo define a type that does not have any new methods associated wiht it,
+If you want yo define a type that does not have any new methods associated with it,
 a marker interface is the way to go. If you want to mark program elements other than classes and interfaces
-or  to fit the marker into a framework that already makes heavey use of annotation types, then a marker annotation is the correct choice.
+or  to fit the marker into a framework that already makes heavy use of annotation types, then a marker annotation is the correct choice.
 If you find yourself writing a marker annotation type whose target is `ElementType.TYPE`,
 take the time to figure out whether it really should be an annotation type or whether a marker interface would be more appropriate.
