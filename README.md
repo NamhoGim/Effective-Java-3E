@@ -5,7 +5,7 @@
 - [x] [3. Methods Common to All Objects](./chapter03)
 - [x] [4. Classes and Interfaces](./chapter04)
 - [x] [5. Generics](./chapter05)
-- [ ] [6. Enums and Annotations](./chapter06)
+- [x] [6. Enums and Annotations](./chapter06)
 - [ ] [7. Lambdas and Streams](./chapter07)
 - [ ] [8. Methods](./chapter08)
 - [ ] [9. General Programming](./chapter09)
