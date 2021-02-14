@@ -23,7 +23,9 @@ public class Card {
         this.rank = rank;
 
     }
+
     private static final List<Card> NEW_DECK = newDeck();
+    private static final List<Card> NEW_DECK_STREAM = newDeckStream();
 
     // Iterative Cartesian product computation
     private static List<Card> newDeck() {
@@ -34,16 +36,17 @@ public class Card {
         return result;
     }
 
-//    // Stream-based Cartesian product computation
-//    private static List<Card> newDeck() {
-//        return Stream.of(Suit.values())
-//                .flatMap(suit ->
-//                        Stream.of(Rank.values())
-//                                .map(rank -> new Card(suit, rank)))
-//                .collect(toList());
-//    }
+    // Stream-based Cartesian product computation
+    private static List<Card> newDeckStream() {
+        return Stream.of(Suit.values())
+                .flatMap(suit ->
+                        Stream.of(Rank.values())
+                                .map(rank -> new Card(suit, rank)))
+                .collect(toList());
+    }
 
     public static void main(String[] args) {
         System.out.println(NEW_DECK);
+        System.out.println(NEW_DECK_STREAM);
     }
 }
