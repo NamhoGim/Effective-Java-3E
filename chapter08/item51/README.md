@@ -22,12 +22,3 @@
     - If there is an appropriate interface to define a parameter, use it in favor of a class that implements the interface.
 
 5. Prefer two-element enum type to `boolean` parameters, unless the meaning of the boolean is clear from the method name.         
-         
-           
-              
-           
-  
-
-
-  
-

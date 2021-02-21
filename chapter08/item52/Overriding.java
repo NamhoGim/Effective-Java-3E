@@ -2,7 +2,7 @@ package chapter08.item52;
 
 import java.util.List;
 
-// Classification using method overrriding (Page 239)
+// Classification using method overriding (Page 239)
 public class Overriding {
     public static void main(String[] args) {
         List<Wine> wineList = List.of(
