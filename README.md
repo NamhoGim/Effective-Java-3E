@@ -8,7 +8,7 @@
 - [x] [6. Enums and Annotations](./chapter06)
 - [x] [7. Lambdas and Streams](./chapter07)
 - [x] [8. Methods](./chapter08)
-- [ ] [9. General Programming](./chapter09)
+- [x] [9. General Programming](./chapter09)
 - [ ] [10. Exceptions](./chapter10)
 - [ ] [11. Concurrency](./chapter11)
 - [ ] [12. Serialization](./chapter12)

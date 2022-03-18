@@ -2,14 +2,14 @@
 
 The following table shows examples of typographical conventions.
 
-| **Identifier Type** | **Examples** |
-|---------------------|--------------|
-| Package or module | `org.junit.jupiter.api`, `com.google.common.collect` |
-| Class or Interface | `Stream`, `FutureTask`, `LinkedHashMap`, `HttpClient` |
-| Method or Field | `remove`, `groupingBy`, `getCrc` |
-| Constance Field | `MIN_VALUE`, `NEGATIVE_INFINITY` |
-| Local Variable | `i`, `denom`, `houseNum` |
-| Type Parameter | `T`, `E`, `K`, `V`, `X`, `R`, `U`, `V`, `T1`, `T2` |
+| **Identifier Type**  | **Examples**                                          |
+|----------------------|-------------------------------------------------------|
+| Package or module    | `org.junit.jupiter.api`, `com.google.common.collect`  |
+| Class or Interface   | `Stream`, `FutureTask`, `LinkedHashMap`, `HttpClient` |
+| Method or Field      | `remove`, `groupingBy`, `getCrc`                      |
+| Constance Field      | `MIN_VALUE`, `NEGATIVE_INFINITY`                      |
+| Local Variable       | `i`, `denom`, `houseNum`                              |
+| Type Parameter       | `T`, `E`, `K`, `V`, `X`, `R`, `U`, `V`, `T1`, `T2`    |
 
 Type parameter names usually consist of a single letter. Most commonly it is one of these five:
 `T` for an arbitrary type, `E` for the element type of a collection, `K` and `V` for the key and value types of a map,
