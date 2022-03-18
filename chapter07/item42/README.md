@@ -4,7 +4,7 @@ In Java 8, the language formalized the notion that interface with a single abstr
 These interfaces are now known as _functional interfaces_, and the language allows you to create instances of these interfaces using _lambda expressions_,
 or lambda for short.
 
-- Sort a list of strings in order of length, using an anonymous class yo create the sort's comparison function (which impose the sort order):
+- Sort a list of strings in order of length, using an anonymous class to create the sort's comparison function (which impose the sort order):
 
 ```java
 Collections.sort(words, new Comparator<String>() {
